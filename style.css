@@ -1,6 +1,21 @@
 body {
-    background-color: burlywood
+    
 }
+
+img {
+    width: 100%;
+}
+
+.apresentacao {
+  background: #CCCCCC
+  ;
+    padding: 30px;
+
+}
+
+h1 {
+    text-align: center;
+} 
 
 p {
     text-align: center;
@@ -9,6 +24,13 @@ p {
 
 em strong {
     color: darkred;
+}
+.benificios {
+background: #fff;
+padding: 20px;
+}
+h2 {
+    text-align: center;
 }
 
 
