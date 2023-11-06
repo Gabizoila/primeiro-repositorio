@@ -2,6 +2,14 @@ body {
     
 }
 
+    h1 {
+        color: black;
+    }
+
+    .titulo-principal {
+            padding-left: 25px;
+    }
+
 img {
     width: 100%;
 }
@@ -13,7 +21,7 @@ img {
 
 }
 
-h1 {
+h2 {
     text-align: center;
 } 
 
@@ -29,7 +37,7 @@ em strong {
 background: #fff;
 padding: 20px;
 }
-h2 {
+h3 {
     text-align: center;
 }
 
