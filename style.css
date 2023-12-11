@@ -1,29 +1,25 @@
-body {
-    
+
+
+h1 {
+    color: #000000;
 }
 
-    h1 {
-        color: black;
-    }
+.titulo-principal {
+    padding-left: 25px;
+}
 
-    .titulo-principal {
-            padding-left: 25px;
-    }
-
-img {
+.banner {
     width: 100%;
 }
 
 .apresentacao {
-  background: #CCCCCC
-  ;
+    background: #CCCCCC;
     padding: 30px;
-
 }
 
 h2 {
     text-align: center;
-} 
+}
 
 p {
     text-align: center;
@@ -31,30 +27,29 @@ p {
 }
 
 em strong {
-    color: darkred;
+    color: red;
 }
-.benificios {
-background: #fff;
-padding: 20px;
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
 }
+
 h3 {
     text-align: center;
 }
 
 ul {
-display: inline-block;
-vertical-align: top;
-width: 20%;
-margin-right: 15%;
-
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
-.itens { 
+
+.itens {
     font-style: italic;
 }
-
 
 .imagembeneficios {
     width: 50%;
 }
-
-
